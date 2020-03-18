@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PIHE Student Details</string>
+    <string name="student_id">Student ID:</string>
+    <string name="address">Address:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+</resources>
